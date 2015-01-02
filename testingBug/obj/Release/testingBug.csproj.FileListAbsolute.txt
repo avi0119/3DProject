@@ -1,0 +1,12 @@
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\bin\Release\testingBug.exe.config
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\bin\Release\testingBug.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\bin\Release\testingBug.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\MainWindow.baml
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\MainWindow.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\App.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\testingBug_MarkupCompile.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\testingBug.g.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\testingBug.Properties.Resources.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\testingBug.csproj.GenerateResource.Cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\testingBug.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testingBug\obj\Release\testingBug.pdb

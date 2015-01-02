@@ -1,0 +1,14 @@
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\bin\Debug\Testbed2DApp-WPF.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\bin\Debug\Testbed2DApp-WPF.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\bin\Debug\Testbed2D.dll
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\bin\Debug\Testbed2D.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Circle3v1.csprojResolveAssemblyReference.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Window1.baml
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Window1.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\App.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Testbed2DApp-WPF_MarkupCompile.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Testbed2DApp-WPF.g.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\GraphicsBook.Properties.Resources.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Circle3v1.csproj.GenerateResource.Cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Testbed2DApp-WPF.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Circle3v1\obj\x86\Debug\Testbed2DApp-WPF.pdb

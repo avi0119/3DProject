@@ -1,0 +1,43 @@
+﻿<Window x:Class="WPF3dTube.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" MouseEnter="Window_MouseEnter_1">
+    <Grid Background="Linen">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--<Button x:Name="button" Grid.Row="0" Content="Scale" Click="RotateTube" Visibility="Hidden"  />-->
+
+        <Viewport3D x:Name="viewport" Grid.Row="1">
+            <Viewport3D.Camera>
+                <PerspectiveCamera x:Name="camera" FarPlaneDistance="50"
+        NearPlaneDistance="0" LookDirection="0,0,-10" UpDirection="0,1,0"
+            Position="0,0,30" FieldOfView="45" />
+            </Viewport3D.Camera>
+            <Viewport3D.Children>
+                <ModelVisual3D x:Name="model">
+                    <ModelVisual3D.Content>
+                        <Model3DGroup x:Name="group">
+                            <AmbientLight Color="White" />
+                            <DirectionalLight Color="White" Direction="0 -1 -1" />
+                            <SpotLight x:Name="spotLight" Color="#666666" Direction="0 -1 -1" InnerConeAngle="30" OuterConeAngle="60" Position="0 1 30" >
+                            </SpotLight>
+                        </Model3DGroup>
+                    </ModelVisual3D.Content>
+                </ModelVisual3D>
+            </Viewport3D.Children>
+        </Viewport3D>
+    </Grid>
+    <Window.Triggers>
+        <EventTrigger  RoutedEvent="MouseEnter" >
+            <BeginStoryboard>
+                <Storyboard Name="myStoryBoardY">
+                    <!--<DoubleAnimation  Storyboard.TargetName="rotationY"  Storyboard.TargetProperty="Angle"  From="0" To="360" Duration="0:0:12" RepeatBehavior="Forever"/>-->
+                    <!--<DoubleAnimation  Storyboard.TargetName="camera"  Storyboard.TargetProperty="FieldOfView"  From="45" To="90" Duration="0:0:12" RepeatBehavior="Forever"/>-->
+                </Storyboard>
+            </BeginStoryboard>
+        </EventTrigger>
+    </Window.Triggers>
+</Window>

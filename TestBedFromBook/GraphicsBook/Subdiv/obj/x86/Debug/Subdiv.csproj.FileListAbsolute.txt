@@ -1,0 +1,14 @@
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\bin\Debug\Subdiv.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\bin\Debug\Subdiv.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\bin\Debug\Testbed2D.dll
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\bin\Debug\Testbed2D.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv.csprojResolveAssemblyReference.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\MainWindow.baml
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\MainWindow.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\App.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv_MarkupCompile.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv.g.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv.Properties.Resources.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv.csproj.GenerateResource.Cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Subdiv\obj\x86\Debug\Subdiv.pdb

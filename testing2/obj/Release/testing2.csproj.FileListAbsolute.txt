@@ -1,0 +1,13 @@
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\bin\Release\testing2.exe.config
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\bin\Release\testing2.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\bin\Release\testing2.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\MainWindow.baml
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\MainWindow.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\App.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2_MarkupCompile.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2.g.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2.Properties.Resources.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2.csproj.GenerateResource.Cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\testing2\obj\Release\testing2.csprojResolveAssemblyReference.cache

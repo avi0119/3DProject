@@ -1,0 +1,14 @@
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\bin\Debug\TextureSimple.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\bin\Debug\TextureSimple.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\bin\Debug\Testbed2D.dll
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\bin\Debug\Testbed2D.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimple.csprojResolveAssemblyReference.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\MainWindow.baml
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\MainWindow.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimpleApp.g.cs
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimple_MarkupCompile.cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimple.g.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\GraphicsBook.Properties.Resources.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimple.csproj.GenerateResource.Cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimple.exe
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\TextureSimple\obj\x86\Debug\TextureSimple.pdb

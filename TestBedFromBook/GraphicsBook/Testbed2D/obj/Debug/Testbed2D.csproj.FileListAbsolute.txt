@@ -1,0 +1,7 @@
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\bin\Debug\Testbed2D.dll
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\bin\Debug\Testbed2D.pdb
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.g.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\obj\Debug\GraphicsBook.Properties.Resources.resources
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.csproj.GenerateResource.Cache
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.dll
+E:\C#Projects\2014Projects\ProjectCopiedFromLap\TestBedFromBook\GraphicsBook\Testbed2D\obj\Debug\Testbed2D.pdb
