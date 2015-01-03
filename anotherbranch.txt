@@ -1,0 +1,11 @@
+git add <file>
+Stage all changes in <file> for the next commit.
+
+git add <directory>
+Stage all changes in <directory> for the next commit.
+
+git add -p
+Begin an interactive staging session that lets you choose portions of a file to add to the next commit. This will present you with a chunk of changes and prompt you for a command. Use y to stage the chunk, n to ignore the chunk, s to split it into smaller chunks, e to manually edit the chunk, and q to exit.
+
+Discussion
+The git add and git commit commands compose the fundamental Git workflow. These are the two commands that every Git user needs to understand, regardless of t
